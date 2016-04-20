@@ -1,0 +1,1 @@
+this.PaysafeAPI = Npm.require('NodeNetBanxSDK');
